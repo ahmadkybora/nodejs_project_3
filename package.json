@@ -1,0 +1,15 @@
+{
+  "name": "nodejs_project_3",
+  "version": "1.0.0",
+  "description": "this is nodejs_project_3",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "ahmad montazeri",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.1"
+  }
+}
